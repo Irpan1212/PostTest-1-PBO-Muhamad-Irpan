@@ -32,7 +32,7 @@ Program Manajemen Band Metal ini adalah aplikasi sederhana yang menggunakan basi
 
 ## Output pada program Manajemen Band Metal
 ### Tampilan Menu
-<img width="274" height="158" alt="image" src="https://github.com/user-attachments/assets/7a9d33ee-68c1-4656-9594-fd89317a7166" />
+<img width="429" height="277" alt="image" src="https://github.com/user-attachments/assets/4e1c1b51-ea93-433e-84f8-388a7a07bc30" />
 
 Fitur fitur pada tampilan menu itu ada 5 pilihan (CRUD):
 
@@ -71,6 +71,9 @@ Pada menu ini untuk mengubah data data pada Band metal dan ada input untuk memil
 Pada menu ini untuk menghapus data data band yang salah atau ingin dihapus
 
 ### Menu Keluar
+<img width="368" height="158" alt="image" src="https://github.com/user-attachments/assets/1437e92e-ec2d-46cb-86ee-9160525b0fe0" />
+
+
 ini adalah menu terakhir yang dimana menu ini adalah untuk menutup sistem manajemen Band Metal ini.
 
 # Terima kasih:0
